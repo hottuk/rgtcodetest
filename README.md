@@ -14,7 +14,14 @@ nvm 1.1.12
 
 ## Project setup
 ```
+node.js 다운로드 홈페이지 https://nodejs.org/en
+nvm window 다운로드 https://github.com/coreybutler/nvm-windows/releases
+nvm-setup.zip 다운로드
+
 npm install
+nvm install 18.17.1
+nvm use 18.17.1
+npm install -g @vue/cli
 ```
 
 ### Compiles and hot-reloads for development
